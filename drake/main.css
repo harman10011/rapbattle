@@ -1,0 +1,26 @@
+body {
+	background-image: url(http://photos.laineygossip.com/articles/drake-meek-feud-05aug15-02.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 100% 10%;
+	color: #87bee0;
+font-family: 'Tillana', cursive;
+}
+
+h1 {
+	margin-left: 12%
+}
+
+input {
+	width: 67%;
+	margin-bottom: 5%
+}
+
+button {
+	color:#0b267e;
+	font-weight: 800;
+	font-size: 15px;
+	border:0;
+	border-radius: 3px 
+}

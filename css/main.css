@@ -1,0 +1,55 @@
+body {
+	background-image: url(http://newyorknatives.com/wp-content/uploads/2015/04/Rap-Battle-628x356.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 100% 20%;
+	background-attachment: fixed;
+}
+
+.col-md-6 h1 {
+	margin: 6% 0 0% 5%;
+	font-family: 'bungee', cursive;
+	font-size: 270%;
+	color: #040404;
+
+}
+
+.rapper {
+	color: red;
+	margin-left: 29%;
+	background-color: transparent;
+	border:0;
+	cursor: pointer;
+}
+#jhund0, #jhund1 , #jhund2 {
+	color: black;
+	margin-left: 9%;
+	font-size: 150%;
+    font-family: 'bungee',cursive;
+}
+
+ .col-md-6 input {
+	background: #ffce60;
+    font-size: 200%;
+	margin-left: 5%;
+	margin-top: 0%;
+	width: 85%;
+	color: black;
+	font-family: cursive;
+	border:2px solid black;
+	border-radius: 4px;
+	padding-left: 2%
+}
+
+.col-md-6 .jhundi{
+	margin-top: 4%;
+	margin-left: 38%;
+	font-size: 190%;
+	font-family: 'bungee',cursive;
+	padding: 5px 16px 5px 14px;
+	background-color: #f7d26c;
+	color: #040208;
+	border:0;
+	border-radius: 3px;
+	cursor: pointer;
+}

@@ -1,0 +1,27 @@
+body {
+	background-image: url(http://thatgrapejuice.net/wp-content/uploads/2015/03/nicki-minaj-2015-that-grape-juice-30-600x342.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 100% 10%;
+	color: #2c527e;
+font-family: 'Tillana', cursive;
+text-shadow: 5px solid black;
+}
+
+h1 {
+	margin-left: 2%
+}
+
+input {
+	width: 70%;
+	margin-bottom: 5%
+}
+
+button {
+	color:#2c527e;
+	font-weight: 800;
+	font-size: 15px;
+	border:0;
+	border-radius: 3px 
+}

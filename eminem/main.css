@@ -1,0 +1,26 @@
+body {
+	background-image: url(http://www.alltupacquotes.com/wp-content/uploads/2016/03/eminem-wallpaper34-hd.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 100% 10%;
+	color: #87bee0;
+font-family: 'Tillana', cursive;
+}
+
+h1 {
+	margin-left: 12%
+}
+
+input {
+	width: 70%;
+	margin-bottom: 5%
+}
+
+button {
+	color:#0b267e;
+	font-weight: 800;
+	font-size: 15px;
+	border:0;
+	border-radius: 3px 
+}
